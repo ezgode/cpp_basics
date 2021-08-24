@@ -1,0 +1,2 @@
+add_subdirectory(example_lib_no_subdirectory)
+add_subdirectory(example_lib_with_subdirectory)
